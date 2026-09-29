@@ -3,8 +3,15 @@
   "siteName": "파페치 쿠폰 코드",
   "baseUrl": "https://fft.agd-offer.co.kr",
   "postUrlPattern": "/blog/{slug}/",
-  "updated": "2026-09-27",
+  "updated": "2026-09-29",
   "posts": [
+    {
+      "title": "파페치 할인코드 적용 시 관부가세 포함 여부와 실제 결제 금액",
+      "slug": "farfetch-discount-code-customs-tax-actual-payment",
+      "date": "2026-09-29",
+      "description": "파페치에서 할인코드를 적용할 때 관부가세가 상품 금액에 포함되는지, 실제 카드로 청구되는 최종 결제 금액은 어떻게 달라지는지 확인하는 방법을 정리했습니다.",
+      "image": ""
+    },
     {
       "title": "파페치 할인코드 입력 방법과 적용 조건 안내",
       "slug": "farfetch-discount-code-how-to-apply",
